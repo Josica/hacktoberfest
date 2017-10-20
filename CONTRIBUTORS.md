@@ -3,7 +3,7 @@
 - Bio: Fullstack Web developer, Computer Engineering Master student
 - GitHub: [faouziamrouche](https://github.com/faouziamrouche)
 
-#### Name: [Rene Israel](https://github.com/reneisrael)
+﻿#### Name: [Rene Israel](https://github.com/reneisrael)
 - Place: Mexico
 - Bio: En decadencia
 - GitHub: [Rene Israel](https://github.com/reneisrael)
@@ -1471,32 +1471,27 @@ Noida
 - Bio: Student-developer, fond of JAva, Web etc.
 - GitHub: [Ermolaeff](https://github.com/ermoalaeff)
 
-#### Name: [Jeffrey Ng](https://github.com/NgJeffrey/)
+#### Name: [Jeffrey Ng](GitHub Link)
 - Place: California, United States
 - Bio: Student
 - GitHub: [NgJeffrey](https://github.com/NgJeffrey/)
 
-#### Name: [Peter Walsh](https://github.com/ddddamian/)
+#### Name: [Peter Walsh](GitHub Link)
 - Place: UK
 - Bio: Learning to code through freeCodeCamp
 - GitHub: [Peter Walsh](https://github.com/ddddamian/)
 
-#### Name: [Michelle Uy](https://github.com/breindy/)
+#### Name: [Michelle Uy](GitHub Link)
 - Place: NYC
 - Bio: CS student aspiring to become a better coder
 - GitHub: [Michelle Uy](https://github.com/breindy/)
-
-#### Name: [James Nuttall](https://github.com/JamesNuttall/)
-- Place: UK
-- Bio: Developing things. Learning Git
-- GitHub: [James Nuttall](https://github.com/JamesNuttall/)
-
-#### Name: [Bruno](https://github.com/bbarao/)
-- Place: Lisbon, Portugal
-- Bio: Love stuff
-- GitHub: [Bruno](https://github.com/bbarao/)
 
 #### Name: [Taylor Lee](https://github.com/taylorlee1/)
 - Place: California
 - Bio: Developer
 - GitHub: [taylorlee1](https://github.com/taylorlee1/)
+
+#### Name: [Josica Ganesamurthy](https://github.com/josica/)
+- Place: New York City
+- Bio: Aspiring Front End Developer
+- GitHub: [josica](https://github.com/josica/)
