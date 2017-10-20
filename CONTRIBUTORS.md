@@ -1491,3 +1491,7 @@ Noida
 - Bio: Developer
 - GitHub: [taylorlee1](https://github.com/taylorlee1/)
 
+#### Name: [Josica G](https://github.com/josica/)
+- Place: NYC
+- Bio: Front End Developer
+- GitHub: [josica](https://github.com/josica)
